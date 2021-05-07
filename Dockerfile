@@ -9,6 +9,7 @@ RUN apk add --no-cache \
     netcat-openbsd \
     nmap \
     procps \
+    rsync \
     socat \
     tcpdump \
     wget \
