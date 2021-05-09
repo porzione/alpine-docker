@@ -11,6 +11,7 @@ RUN apk add --no-cache \
     nmap \
     procps \
     rsync \
+    sed \
     socat \
     tcpdump \
     wget \
